@@ -17,5 +17,5 @@ g.h>g/g]g~g0g+g!p0g`g0g!g}g]h+g!u]g0g";
 }
 /*
     After seeing the output, she said:
-        I don't like to .C, now I will be your .EXE !
+        I don't like what I .C, now I will be your .EXE !
 */
