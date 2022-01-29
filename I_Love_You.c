@@ -14,6 +14,8 @@ g.h>g/g]g~g0g+g!p0g`g0g!g}g]h+g!u]g0g";
     for(y=28;o=yon[y++];)
         for( n = ( *(yon+++y) - ( (1<<6) + ( 1<<5) + (1<<2) + (1<<1)) );n--;)
             putchar(!((o-11)^(1<<5))?o-1-(1<<5):o-1);
+    
+    return 0; /* ;) */
 }
 /*
     After seeing the output, she said:
